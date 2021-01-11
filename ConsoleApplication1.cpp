@@ -7,6 +7,7 @@ using namespace std;
 void main()
 {
     cout << "Hello World!\n"<<endl;
+    cout << "new commit" << endl;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
