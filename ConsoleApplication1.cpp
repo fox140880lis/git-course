@@ -6,7 +6,7 @@ using namespace std;
 
 void main()
 {
-    /*std::*/cout << "Hello World!\n"<<endl;
+    cout << "Hello World!\n"<<endl;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
